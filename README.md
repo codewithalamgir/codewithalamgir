@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi there, I'm Alamgir Kabir 👋</h1>
-  <h3 align="center">A Full Stack Developer & Digital Marketer from Saudi Arabia, crafting powerful digital experiences from concept to launch.</h3>
+  <h3 align="center">A Full Stack Developer & Digital Marketer from Saudi Arabia.</h3>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
  <a href="mailto:kabir@coderlity.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-kabir@coderlity.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
  </a>
- <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+ <a href="https://www.linkedin.com/in/codewithkabir/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
  </a>
  </div>
@@ -36,7 +36,7 @@ Here are the technologies and tools I'm proficient with:
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mysql,mongodb" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -56,18 +56,15 @@ Here are the technologies and tools I'm proficient with:
 ### 📊 **My GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlamgirKabir&show_icons=true&theme=react" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlamgirKabir&theme=react" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamgirKabir&layout=compact&theme=react" height="180"/>
 </div>
-<br>
 
 ---
 
-### 🐍 **Contribution Graph Snake**
-
-This animated snake shows my GitHub contributions!
-
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
+
+### 🐍 Contribution Graph Animation
+<img src="https://raw.githubusercontent.com/AlamgirKabir/AlamgirKabir/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
